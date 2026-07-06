@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  StudentUrl: `http://localhost:3000/api/student`
+  StudentUrl: `https://node-student-backend-1.onrender.com`
 };
